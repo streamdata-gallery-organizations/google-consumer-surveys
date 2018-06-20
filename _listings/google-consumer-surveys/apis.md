@@ -8,10 +8,10 @@ description: Google Consumer Surveys brings journalists the latest data on elect
   president. That tool is Google Consumer Surveys.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google-Consumer-Surveys-earn-money-payment.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Consumer Surveys
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-consumer-surveys/master/_listings/google-consumer-surveys/apis.md
 specificationVersion: "0.14"
 apis:
