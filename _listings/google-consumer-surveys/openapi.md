@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Google Consumer Surveys
 x-complete: 1
@@ -205,4 +204,3 @@ paths:
           description: OK
       tags:
       - Survey
----
